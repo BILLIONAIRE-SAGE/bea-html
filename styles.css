@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(56, 49, 49);
+    color: white;
+    font-family: Arial, sans-serif;
+}
+img{
+    height: 500px;
+    width: 500px;
+    
+}
+
+footer{
+    text-align: center;
+}
